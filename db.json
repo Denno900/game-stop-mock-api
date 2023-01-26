@@ -1,0 +1,85 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Call of Duty",
+      "description": "Call of Duty: Modern Warfare II is a 2022 first-person shooter game developed by Infinity Ward and published by Activision.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2017/Ry0b7FGqNjHQvNRpRE9RjU3I.png",
+      "price": 3500
+    },
+    {
+      "id": 2,
+      "name": "Forza Horizon 5",
+      "description": "Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars",
+      "image": "https://assets.xboxservices.com/assets/8a/e8/8ae86a0b-8470-4436-ba90-eea505207ea1.jpg?n=Forza-Horizon-5_Sharing_200x200.jpg",
+      "price": 4500
+    },
+    {
+      "id": 3,
+      "name": "Fifa 23",
+      "description": "EA SPORTS™ FIFA 23 brings The World's Game to the pitch, with next-gen HyperMotion2 Technology, women's club football, two FIFA World Cup™ tournaments and many more game modes.",
+      "image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/63/411088/2.jpg?4282",
+      "price": 3500
+    },
+    {
+      "id": 4,
+      "name": "God of War Rangnarok",
+      "description": "God of War Ragnarök is an action-adventure game developed by Santa Monica Studio and published by Sony Interactive Entertainment.",
+      "image": "https://assets.reedpopcdn.com/god-of-war-ragnarok-header.jpg/BROK/thumbnail/1200x900/quality/100/god-of-war-ragnarok-header.jpg",
+      "price": 7000
+    },
+    {
+      "id": 5,
+      "name": "Minecraft",
+      "description": "Minecraft is a sandbox game developed by Mojang Studios. The game was created by Markus \"Notch\" Persson in the Java programming language.",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307uYG0CXzRuA9aryByTHYrQLFz-HVQ3VVl7aAysxK15HMpqjkAIcC_R5vdfZt52hAXQNHoYhSuoSq_46_MT_tDBcLu49I.png",
+      "price": 5600
+    },
+    {
+      "id": 6,
+      "name": "Uncharted 4 A Thief's End",
+      "description": "A Thief's End is a 2016 action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment",
+      "image": "https://www.vividgold.co.ke/wp-content/uploads/2019/12/ps4-uncharted-4-a-thiefs-end.jpg",
+      "price": 4500
+    }
+  ],
+  "consoles": [
+    {
+      "id": 1,
+      "name": "XBOX Series X",
+      "image": "https://i5.walmartimages.com/asr/12870b37-2928-4748-8e87-868e44ed218d.89acba7601d9b7c641d3c880ce173893.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "price": 100000
+    },
+    {
+      "id": 2,
+      "name": "Play Station 5",
+      "image": "https://www.treline.co.ke/wp-content/uploads/2021/01/ishMfuW.jpg",
+      "price": 120000
+    },
+    {
+      "id": 3,
+      "name": "Play Station 4 Pro",
+      "image": "https://cdn-cjelp.nitrocdn.com/BtAARImVWLRuVtTQluhRKmxlOLfqmUJF/assets/static/optimized/rev-2d43a17/wp-content/uploads/2022/05/playstation-4-pro.png",
+      "price": 65000
+    },
+    {
+      "id": 4,
+      "name": "Nintendo Switch",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nintendo-switch-console-1640188664.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*",
+      "price": 32000
+    },
+    {
+      "id": 5,
+      "name": "XBOX Series S",
+      "image": "https://i0.wp.com/www.pricepoint.co.ke/wp-content/uploads/2021/07/Microsoft-Xbox-Series-S.jpg?fit=800%2C800&ssl=1",
+      "price": 75000
+    },
+    {
+      "id": 6,
+      "name": "Play Station 4 Slim",
+      "image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/P/C/198554_1645784258.jpg",
+      "price": 35000
+    }
+  ],
+  "cart": []
+}
